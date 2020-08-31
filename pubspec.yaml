@@ -1,0 +1,35 @@
+name: tahmin_oyunu
+description: Ne kadar sanslisin?.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.5
+
+flutter_icons:
+  image_path: "lib/images/app_icon.png"
+  android: true 
+  ios: true
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+  - lib/images/up.png
+  - lib/images/down.png
+  - lib/images/correct.png
+  - lib/images/waiting.png
+
+
