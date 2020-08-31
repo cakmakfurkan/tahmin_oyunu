@@ -1,16 +1,16 @@
 # tahmin_oyunu
 
-A new Flutter project.
+Bilgisayarın tuttuğu rastgele sayıyı kullanıcının en az tahminle bilmesi gerekir.
 
-## Getting Started
+Görseller:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![alt tag](https://imgur.com/xxUs06N.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt tag](https://imgur.com/r6cRfha.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt tag](https://imgur.com/PBhQLIk.jpg)
+
+![alt tag](https://imgur.com/QnQThsk.jpg)
+
+
